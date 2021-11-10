@@ -255,8 +255,8 @@ body .et_pb_bg_layout_light.et_pb_button:hover,
 body .et_pb_bg_layout_light .et_pb_button:hover,
 body .et_pb_button:hover {
   color: #ffffff !important;
-  background-color: #59a132;
-  border-color: #59a132 !important;
+  background-color: #EB1C22;
+  border-color: #EB1C22 !important;
   border-radius: 50px;
   letter-spacing: 1px;
 }
@@ -283,8 +283,8 @@ body .et_pb_button:hover {
 .woocommerce #content input.button:hover,
 .woocommerce-page #content input.button:hover {
   color: #ffffff !important;
-  background-color: #59a132 !important;
-  border-color: #59a132 !important;
+  background-color: #EB1C22 !important;
+  border-color: #EB1C22 !important;
   border-radius: 50px;
   letter-spacing: 1px;
 }
@@ -494,7 +494,7 @@ select {
 div.et_pb_section.et_pb_section_0_tb_header {
   background-image: linear-gradient(
     120deg,
-    #59a132 0%,
+    #EB1C22 0%,
     #1e5b16 100%
   ) !important;
 }
@@ -1215,9 +1215,9 @@ body
   .dsm_button_0
   .et_pb_button_two.et_pb_button:hover {
   color: #ffffff !important;
-  border-color: #59a132 !important;
+  border-color: #EB1C22 !important;
   background-image: initial;
-  background-color: #59a132;
+  background-color: #EB1C22;
 }
 .dsm_button_0 .dsm-button-separator-text {
   margin-left: 10px;
@@ -1516,7 +1516,7 @@ body.et_pb_pagebuilder_layout.single.et_full_width_page
   font-weight: 800;
   text-transform: uppercase;
   font-size: 16px;
-  color: #59a132 !important;
+  color: #EB1C22 !important;
   letter-spacing: 2px;
 }
 .et_pb_text_5 {
@@ -1693,7 +1693,7 @@ div.et_pb_section.et_pb_section_3 {
   margin-bottom: 15px;
 }
 .et_pb_text_9 h1 {
-  color: #59a132 !important;
+  color: #EB1C22 !important;
 }
 .et_pb_section_8 {
   height: 8px;
@@ -1902,16 +1902,16 @@ body.et_pb_pagebuilder_layout.single.et_full_width_page
   color: #ffffff !important;
 }
 .dsm_block_reveal_text_3.dsm_block_reveal_text .dsm_block_image_reveal_front {
-  background-color: #59a132;
+  background-color: #EB1C22;
 }
 .dsm_block_reveal_text_0.dsm_block_reveal_text .dsm_block_image_reveal_front {
-  background-color: #59a132;
+  background-color: #EB1C22;
 }
 .dsm_block_reveal_text_1.dsm_block_reveal_text .dsm_block_image_reveal_front {
-  background-color: #59a132;
+  background-color: #EB1C22;
 }
 .dsm_block_reveal_text_2.dsm_block_reveal_text .dsm_block_image_reveal_front {
-  background-color: #59a132;
+  background-color: #EB1C22;
 }
 .et_pb_text_19 {
   line-height: 1.6em;
