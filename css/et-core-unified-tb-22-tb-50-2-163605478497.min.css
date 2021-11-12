@@ -3,6 +3,11 @@
     color: #000000;
 }
 
+.thirtypercent
+{
+  max-width: 30%;
+}
+
 body,
 .et_pb_column_1_2 .et_quote_content blockquote cite,
 .et_pb_column_1_2 .et_link_content a.et_link_main_url,
