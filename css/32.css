@@ -12,6 +12,10 @@ Saved: Jul 15 2021 | 18:39:05 */
   padding: 2px;
 }
 
+.cronoslogo {
+  margin: 16px;
+}
+
 /* BUTTONS */
 @media only screen and (max-width: 767px) {
   .dsm_button .et_pb_button_module_wrapper {
