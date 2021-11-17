@@ -8,8 +8,8 @@ Saved: Jul 15 2021 | 18:39:05 */
 
 /* TYPOGRAPHY */
 
-.textblock {
-  padding: 2px;
+.textblock p {
+  padding: 6px;
 }
 
 .cronoslogo {
